@@ -1,0 +1,23 @@
+#row {
+    margin: 24px;
+    display: flex;
+}
+
+#textbox {
+    font-size: 24px;
+    width: 400px;
+}
+
+#copy {
+    margin-left: 24px;
+    font-size: 24px;
+    width: 100px;
+}
+
+#addrow {
+    margin: 24px;
+    width: 150px;
+    margin-bottom: 0px;
+    margin-left: 175px;
+    font-size: 24px;
+}
